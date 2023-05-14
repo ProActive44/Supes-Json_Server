@@ -3,7 +3,9 @@
         {
             "id":1,
             "name":"John",
-            "email":"tugrp@example.com"
+            "email":"tugrp@example.com",
+            "password":"123456789"
+            
         }
     ]
 }
